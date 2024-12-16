@@ -5,6 +5,10 @@
 🚧  Still under development. </p>
 
 <p>Current release is only available on Windows.</p>
+
+<img src="https://github.com/user-attachments/assets/a50c4a90-418e-484c-a012-3c040dd14eb2" width="600">
+
+
 <b>features</b>
 
  - Layers
