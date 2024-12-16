@@ -11,6 +11,7 @@
  - Brush transparency
  - Undo/Redo (currently limited, deleting/adding layer will clear undo/redo history)
  - HSL Color Wheel
+ - Color palette
  - Save image
  - dark / light theme depends on your PC dark / light mode
  - and H O N K
