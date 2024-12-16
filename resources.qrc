@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>pencil-svgrepo-com.svg</file>
+        <file>eraser-svgrepo-com.svg</file>
+        <file>color-wheel.svg</file>
+        <file>save-icon-svgrepo-com.svg</file>
+        <file>save-technology-svgrepo-com.svg</file>
+        <file>clown_horn.mp3</file>
+        <file>PAINTt.png</file>
+    </qresource>
+</RCC>
